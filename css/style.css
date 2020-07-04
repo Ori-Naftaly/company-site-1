@@ -41,6 +41,10 @@ header{
   padding-top:30px;
   min-height:70px;
   border-bottom:#e8491d 3px solid;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
 }
 
 header a{
